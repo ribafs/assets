@@ -6,4 +6,4 @@ Uma boa quantidade de assets sob domínio público: áudio, imagens, sprites, fo
 
 Estudando a criação de jogos, percebi que manter organizados bons assets é algo bem importante. Então comecei a organizar e coletar dos vários jogos que baixei para estudar. O resultado está aqui:
 
-S14.248
+São hoje - 14.248
