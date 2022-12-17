@@ -1,12 +1,12 @@
 # assets
 
-Uma boa quantidade de assets sob domínio público: áudio, imagens, sprites, fontes e animações organizados por categoria, num total hoje de 14.248 arquivos
+Uma boa quantidade de assets sob domínio público: áudio, imagens, sprites, fontes e animações organizados por categoria
 
 ## Como os reuni
 
 Estudando a criação de jogos, percebi que manter organizados bons assets é algo bem importante. Então comecei a organizar e coletar dos vários jogos que baixei para estudar. O resultado está aqui:
 
-São hoje - 14.248
+São hoje - 14.290 (17/12/2022)
 
 - Animações
 - Áudio
