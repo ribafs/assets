@@ -8,6 +8,12 @@ Estudando a criação de jogos, percebi que manter organizados bons assets é al
 
 São hoje - 14.248
 
+- Animações
+- Áudio
+- Fontes
+- Imagens
+- Sprites
+
 ## Alguns grandes repositórios
 
 Alguns dos assets vieram de um destes
