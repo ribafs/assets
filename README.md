@@ -6,7 +6,7 @@ Uma boa quantidade de assets sob domínio público: áudio, imagens, sprites, fo
 
 Estudando a criação de jogos, percebi que manter organizados bons assets é algo bem importante. Então comecei a organizar e coletar dos vários jogos que baixei para estudar. O resultado está aqui:
 
-São hoje - 14.290 (17/12/2022)
+São hoje - 14.292 (18/12/2022)
 
 - Animações
 - Áudio
